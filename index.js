@@ -27,7 +27,6 @@ module.exports = function(){
         }
         var _that = this;
         gm(file.path).identify(function(error,result){
-            //console.log(result);
             if(error){
                 gutil.log("[Error] ", error);
                 return;
