@@ -1,6 +1,6 @@
 {
   "name": "gulp-mutuo",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "the plugin to help UI Engineer Conversion @2x images for haplotype Pictures",
   "main": "index.js",
   "scripts": {
